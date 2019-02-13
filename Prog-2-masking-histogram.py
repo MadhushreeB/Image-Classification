@@ -24,24 +24,3 @@ plt.subplot(224), plt.plot(hist_full, label="Full Histogram"), plt.plot(hist_mas
 plt.xlim([0,256])
 plt.legend()
 plt.show()
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
-
-# In[ ]:
-
-
-
